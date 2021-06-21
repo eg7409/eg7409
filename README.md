@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </p>  
 </div>   -->
 
-<img src="https://img.shields.io/badge/Computer%20Science%20Sophomore%20-SRMIST, KTR-brightgreen?style=for-the-badge&logo=one" />
+<img src="https://img.shields.io/badge/Computer%20Science%20Sophomore%20-SRMIST, Chennai-brightgreen?style=for-the-badge&logo=one" />
 
 <!-- ### Connect with me: -->
 <br>
