@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- ### 👋 -->
-### Hey, I'm Eishita 👋
+<!-- ### Hey, I'm Eishita 👋 -->
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&lines=Hey+👋,+I'm+Eishita+Gupta)
 
 <img align="right" alt="GIF" width="300px" height="250px" src="https://github.com/eg7409/eg7409/blob/main/image.gif" />
 
@@ -31,11 +32,11 @@ Here are some ideas to get you started:
   </p>  
 </div>   -->
 
-<img src="https://img.shields.io/badge/Computer%20Science%20Sophomore%20-SRMIST, KTR-green?style=for-the-badge&logo=one" />
+<img src="https://img.shields.io/badge/Computer%20Science%20Sophomore%20-SRMIST, KTR-brightgreen?style=for-the-badge&logo=one" />
 
 <!-- ### Connect with me: -->
 <br>
- <img height=40px width=220px src="https://img.shields.io/badge/Connect%20with%20me%20-black?&style=for-the-badge">
+ <img height=40px width=220px src="https://img.shields.io/badge/Reach%20me%20out%20on-black?&style=for-the-badge">
 
 
 <a href="https://www.linkedin.com/in/eishita-gupta-31564b156/" target="_blank">
@@ -72,7 +73,7 @@ Here are some ideas to get you started:
 <!--   ### :zap:  GitHub Stats -->
 
   <p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eg7409&theme=radical&layout=compact&show_icons=true" alt="eg7409" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eg7409&theme=radical&layout=compact&show_icons=true" alt="eg7409" /><br>
  
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg7409&theme=radical&layout=compact&hide=html" alt="eg7409" /> 
