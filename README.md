@@ -63,14 +63,16 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
+<br>
 
  <details>
   <summary><img width="250px" height="40px" src="https://img.shields.io/badge/My%20github%20stats-black?&style=for-the-badge&logo=github " /></summary>
   <br>
   <p> 
+   <br>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg7409&theme=radical&layout=compact&hide=html" alt="eg7409" /> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eg7409&theme=radical&layout=compact&show_icons=true" alt="eg7409" /><br/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg7409&theme=radical&layout=compact&hide=html" alt="eg7409" /> 
+ 
   <img align="center" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=eg7409&show_icons=true&theme=tokyonight"/>
   <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=eg7409&theme=react-dark"/>
     
