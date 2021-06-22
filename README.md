@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
  <details>
   <summary><img width="250px" height="40px" src="https://img.shields.io/badge/My%20github%20stats-black?&style=for-the-badge&logo=github " /></summary>
-  <br>
+  
   <p> 
    <br>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg7409&theme=radical&layout=compact&hide=html" alt="eg7409" /> 
