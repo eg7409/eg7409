@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 <!--    <br> -->
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eg7409&theme=radical&layout=compact&show_icons=true" alt="eg7409" /><br/>
-<!--    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg7409&theme=radical&layout=compact&hide=html" alt="eg7409" />  -->
-<!--   <img align="left" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=eg7409&show_icons=true&theme=tokyonight"/> -->
-<!--   <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=eg7409&theme=react-dark"/> -->
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg7409&theme=radical&layout=compact&hide=html" alt="eg7409" /> 
+  <img align="left" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=eg7409&show_icons=true&theme=tokyonight"/>
+  <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=eg7409&theme=react-dark"/>
     
 <!--   </p>
 
