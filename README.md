@@ -56,8 +56,10 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-<img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
-<img alt="Android Studio" width="26px" src="https://github.com/eg7409/eg7409/blob/main/android.png"/>
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=00599C)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=00599C)
+<!-- <img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/> -->
+<!-- <img alt="Android Studio" width="26px" src="https://github.com/eg7409/eg7409/blob/main/android.png"/> -->
 
 
 
