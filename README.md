@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" width="300px" height="250px" src="https://github.com/eg7409/eg7409/blob/main/image.gif" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eg7409&color=brightgreen)
+[![Github](https://img.shields.io/github/followers/eg7409?label=Follow&style=social)](https://github.com/eg7409)
 
 ## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; I'm a Student and Developer!!
 
@@ -74,17 +75,17 @@ Here are some ideas to get you started:
   <p>  -->
 <!--    <br> -->
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eg7409&theme=radical&layout=compact&show_icons=true" alt="eg7409" /><br/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eg7409&theme=tokyonight&layout=compact&show_icons=true" alt="eg7409" />
+  <br/>
   <br><br>
 
-  <img align="right" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=eg7409&show_icons=true&theme=tokyonight"/> <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg7409&theme=radical&layout=compact&hide=html" alt="eg7409" /> 
+  <img align="left" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=eg7409&show_icons=true&theme=tokyonight"/> 
+  <br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg7409&theme=tokyonight&layout=compact&hide=html" alt="eg7409" />
+  <br>
   <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=eg7409&theme=react-dark"/> 
     
-<!--   </p>
 
-</details>
- -->
 
 [linkedin]: https://www.linkedin.com/in/eishita-gupta-31564b156/
 
