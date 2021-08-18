@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" width="300px" height="250px" src="https://github.com/eg7409/eg7409/blob/main/image.gif" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=eg7409&color=brightgreen)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=eg7409&color=brightgreen) -->
 [![Github](https://img.shields.io/github/followers/eg7409?label=Follow&style=social)](https://github.com/eg7409)
 
 ## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; I'm a Student and Developer!!
