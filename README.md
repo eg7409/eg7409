@@ -78,10 +78,10 @@
   <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=eg7409&theme=react-dark"/>  -->
     
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [linkedin]: https://www.linkedin.com/in/eishita-gupta-31564b156/
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
