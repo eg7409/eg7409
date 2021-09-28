@@ -36,7 +36,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=yellow)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-darkgreen?style=flat&logo=android-studio&logoColor=green)
-![SQL](https://github.com/sd2001/sd2001/blob/master/Tech/sql-52.png)
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=android-studio)
+
 <!-- <img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/> -->
 <!-- <img alt="Android Studio" width="26px" src="https://github.com/eg7409/eg7409/blob/main/android.png"/> -->
 
