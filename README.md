@@ -61,6 +61,11 @@
 <br>
 <img width="250px" height="40px" src="https://img.shields.io/badge/My%20github%20stats-black?&style=for-the-badge&logo=github " />
 
+
+
+<img align="left" alt="GIF"  src="https://github.com/eg7409/eg7409/blob/main/Images/c.gif" />
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eg7409&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eg7409&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eg7409&theme=dracula)
@@ -96,6 +101,7 @@
 
 
 <!-- [linkedin]: https://www.linkedin.com/in/eishita-gupta-31564b156/ -->
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
