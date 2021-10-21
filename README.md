@@ -63,7 +63,7 @@
 
 
 
-<img align="left" alt="GIF"  src="https://github.com/eg7409/eg7409/blob/main/Images/c.gif" />
+<img align="left" alt="GIF" width="300px" height="300px" src="https://github.com/eg7409/eg7409/blob/main/Images/c.gif" />
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eg7409&theme=dracula) 
